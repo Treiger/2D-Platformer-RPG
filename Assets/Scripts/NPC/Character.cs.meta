@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 67c42313575fb134f8439b37c68a7579
+timeCreated: 1452430985
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - portrait: {instanceID: 0}
+  - dialogueMenu: {instanceID: 0}
+  - dialogueMenuObject: {fileID: 22330328, guid: 850e6e947b24d4c49ad1cfa397b47c04,
+      type: 2}
+  - dContentTransform: {instanceID: 0}
+  - dialogueManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

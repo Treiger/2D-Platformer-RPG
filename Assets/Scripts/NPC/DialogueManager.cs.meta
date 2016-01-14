@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34236d00f3e5b724588b3c5dd1fbdc2d
+timeCreated: 1452438203
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - choiceButton: {instanceID: 0}
+  - choiceButtonRect: {instanceID: 0}
+  - npcDialogueDisplay: {instanceID: 0}
+  - npcNameDisplay: {instanceID: 0}
+  - npc: {instanceID: 0}
+  - npcPortrait: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
