@@ -14,6 +14,8 @@ public class GameMenu : MonoBehaviour
 
     public Player player;
 
+    public Animator thisAnimator;
+
     public bool isMenuOpen;
     public bool fading;
 
@@ -27,7 +29,7 @@ public class GameMenu : MonoBehaviour
                 fading = true;
                 player.isInMenu = true;
             }
-            else
+            else if (!thisAnimator.GetBool("inMenu")) 
             {
                 StartCoroutine("FadeOutMenu");
                 fading = true;
